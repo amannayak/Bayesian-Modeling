@@ -7,9 +7,9 @@ Bayesian statistical methods use [Bayes' theorem](https://en.wikipedia.org/wiki/
 
 Informative clickable chart with relations between distributions: [Relationship](http://www.johndcook.com/distribution_chart.html.)
 
-##<Implemented Task Descreption:>
+## <Implemented Task Descreption:>
 
-#<Task 1>
+# <Task 1>
 
 * Bernoulli Distribution
 * Log-normal distribution and the Gini coefficient
