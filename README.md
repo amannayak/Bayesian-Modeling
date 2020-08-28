@@ -7,25 +7,25 @@ Bayesian statistical methods use [Bayes' theorem](https://en.wikipedia.org/wiki/
 
 Informative clickable chart with relations between distributions: [Relationship](http://www.johndcook.com/distribution_chart.html.)
 
-## < Implemented Task Descreption >
+#  Implemented Task Descreption 
 
-# <Task 1>
+## Task 1
 
 * Bernoulli Distribution
 * Log-normal distribution and the Gini coefficient
 * Bayesian inference for the concentration parameter in the von Mises distribution
 
-# < Task 2>
+## Task 2
 
 * Linear and Polynomial Regression
 * Posterior approximation for classification with logistic regression
 
-# < Task 3>
+## Task 3
 
 * Normal model, mixture of normal model with semi-conjugate prior
 * Metropolis Random Walk for Poisson regression
 
-# < Task 4>
+## Task 4
 
 * Time series models in Stan
 
